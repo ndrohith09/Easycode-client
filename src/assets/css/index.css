@@ -313,16 +313,13 @@ nav .profile-details .admin_name {
   background: #cce5ff;
   border-radius: 10px;
 }
-
-
 .appointment-x-details i {
-  font-size: 18px;
+  font-size: 23px;
   margin-right: 10px;
   padding: 5px;
   color: #e05260;
   background: #f7d4d7;
   border-radius: 10px;
-  cursor: pointer;
 }
 
 .appointment-o-details i {
